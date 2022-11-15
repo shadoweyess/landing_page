@@ -259,23 +259,3 @@ footer {
 
 
 
-/*stare
-.container3 .window {
-    margin-top: 100px;
-    padding: 0px 100px;
-    display: flex;
-    justify-content: space-between;
-    
-    background-color: rgba(9,58,65,1);
-    color: white;
-    font-size: 22px;
-    width: 500px;
-    height: auto;
-    border-radius: 8px;
-}
-
-.container button {
-    display: flex;
-    align-items: center;
-
-}*/
