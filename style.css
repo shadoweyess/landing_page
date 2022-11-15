@@ -1,7 +1,7 @@
 body{
     
     margin: 0;
-    
+    font-family: 'Verdana', sans-serif;
 }
 
 .header {
@@ -9,7 +9,6 @@ body{
     height: auto;
     display: flex;
     flex-wrap: wrap;
-    
     justify-content: space-between;
     align-items: center;
     width: 100%;
@@ -91,6 +90,7 @@ a {
   
 }
 h1 {
+    font-family: 'Jazz LET', fantasy;
     font-size: 48px;
     font-weight: bold;
     justify-content: center;
@@ -102,6 +102,7 @@ h1 {
 h2 {
     margin: 0;
     padding: 0;
+    font-family: 'Courier New', monospace;
 
 }
 .box_left {
@@ -128,6 +129,7 @@ button {
     border: none;
     box-shadow: rgba(9,58,65,1) 4px 4px 0;
     transition: 100ms;
+    font-family: 'Optima', sans-serif;
 
     
 }
@@ -204,6 +206,7 @@ padding: 50px 100px 50px 0;
     font-size: 36px;
     font-style: italic;
     color: rgb(255, 255, 255);
+    font-family: 'Snell Roundhand', cursive;
     
 }
 
